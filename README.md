@@ -1,4 +1,4 @@
-# Who are you?
+# I am...?
 I'm a developer skilled in C and Python code and the owner of KillZwitch Team. I've tried other languages, but these 2 are my best. I use arch linux as a daily driver.
 ## Discord username
 `@puc3`
